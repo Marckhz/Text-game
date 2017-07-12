@@ -1,0 +1,3 @@
+Scene_1	hall1		Room1	FindLetter	ExitRoom
+		FindKey			
+
